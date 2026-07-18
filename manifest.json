@@ -2,7 +2,7 @@
   "name": "داشبورد رشد روزانه",
   "short_name": "داشبورد",
   "description": "داشبورد رشد روزانه و ترید",
-  "start_url": "/MyV55.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f4f7f6",
